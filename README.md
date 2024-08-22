@@ -8,7 +8,7 @@ The **Firewall Rule Generator** is a Python-based tool designed to help users cr
 
 - **Interactive Input**: Prompts users for necessary information like action, port, protocol, and IP addresses.
 - **Firewall System Support**: Generates rules for `iptables`, `ufw`, and Windows Firewall.
-- **Advanced Rule Options**: Allows for specification of source and destination IP addresses (in CIDR notation) and network interfaces (for `iptables`).
+- **Advanced Rule Options**: Allows for specification of source and destination IP addresses and network interfaces (for `iptables`).
 - **Validation**: Ensures that user inputs are valid, including port ranges and protocol types.
 
 ## Installation
